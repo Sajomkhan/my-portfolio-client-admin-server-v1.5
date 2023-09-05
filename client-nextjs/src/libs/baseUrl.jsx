@@ -1,0 +1,1 @@
+export const base_url = 'https://my-portfolio-server-v-1-4.onrender.com'
