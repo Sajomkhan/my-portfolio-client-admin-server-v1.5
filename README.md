@@ -7,10 +7,10 @@
 
 ### Full Mobile Responsive Web Page
 
-#### It include 3 Parts:
-* Client
-* Admin
-* Server
+#### It includes 3 Parts:
+* Client with Next.js
+* Admin with Vite
+* Server with Node.js and MongoDB
 
 ### What I use here:
 * React- Next.js
