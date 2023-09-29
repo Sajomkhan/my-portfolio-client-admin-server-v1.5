@@ -1,7 +1,7 @@
 # Full Stack Protfolio App with Next.js, Tailwindcss, Node.js & MongoDB
 ### Full Mobile Responsive App
 
-#### Go to Live Project: (https://portfolio-saiful-ajom-khan.netlify.app/
+#### Go to Live Project: https://portfolio-saiful-ajom-khan.netlify.app/
 
 [![image](./screenshot.png)](https://portfolio-saiful-ajom-khan.netlify.app/)
 
